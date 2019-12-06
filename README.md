@@ -2,6 +2,10 @@ Anax WEATHER mod (v1)
 ==================================
 [![Build Status](https://travis-ci.org/knasenn/vaderanax.svg?branch=master)](https://travis-ci.org/knasenn/vaderanax)
 [![CircleCI](https://circleci.com/gh/knasenn/vaderanax.svg?style=svg)](https://circleci.com/gh/knasenn/vaderanax)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/knasenn/vaderanax/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/knasenn/vaderanax/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/knasenn/vaderanax/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/knasenn/vaderanax/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/knasenn/vaderanax/badges/build.png?b=master)](https://scrutinizer-ci.com/g/knasenn/vaderanax/build-status/master)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/knasenn/vaderanax/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
 
 
 
