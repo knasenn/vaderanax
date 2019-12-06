@@ -1,5 +1,6 @@
 Anax WEATHER mod (v1)
 ==================================
+[![Build Status](https://travis-ci.org/knasenn/vaderanax.svg?branch=master)](https://travis-ci.org/knasenn/vaderanax)
 [![CircleCI](https://circleci.com/gh/knasenn/vaderanax.svg?style=svg)](https://circleci.com/gh/knasenn/vaderanax)
 
 
