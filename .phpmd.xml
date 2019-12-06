@@ -18,15 +18,15 @@
         <exclude name="BooleanArgumentFlag" />
         <exclude name="ElseExpression" />
     </rule>
-    
+
     <rule ref="rulesets/codesize.xml" />
 
     <rule ref="rulesets/controversial.xml">
         <exclude name="Superglobals" />
-    </rule>
+    </rule> 
 
     <rule ref="rulesets/design.xml" />
-    
+
     <rule ref="rulesets/naming.xml">
         <exclude name="ShortVariable" />
         <exclude name="ShortMethodName" />

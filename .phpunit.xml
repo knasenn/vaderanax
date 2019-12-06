@@ -19,4 +19,4 @@
         <log type="coverage-clover" target="build/coverage.clover" />
    </logging>
 
-</phpunit>
+</phpunit> 

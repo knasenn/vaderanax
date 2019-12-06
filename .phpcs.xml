@@ -17,4 +17,4 @@
     <arg name="warning-severity" value="0"/>
 
     <rule ref="PSR2" />
-</ruleset>
+</ruleset> 
