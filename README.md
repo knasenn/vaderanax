@@ -1,6 +1,6 @@
 Anax WEATHER mod (v1)
 ==================================
-
+[![CircleCI](https://circleci.com/gh/knasenn/vaderanax.svg?style=svg)](https://circleci.com/gh/knasenn/vaderanax)
 
 
 
