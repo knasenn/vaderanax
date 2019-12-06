@@ -1,21 +1,26 @@
-imports:
-    - php
-
-filter:
-    excluded_paths: [vendor/*, test/*]
-
 build:
     nodes:
         analysis:
-            tests:
+            project_setup:
                 override:
-                    - php-scrutinizer-run
-
+                    - 'true'
         tests-and-coverage:
             tests:
                 override:
                     -
-                        command: "make phpunit"
+                        command: make phpunit
                         coverage:
-                            file: "build/coverage.clover"
-                            format: "php-clover"
+                            file: build/coverage.clover
+                            format: php-clover
+        tests: true
+filter:
+    excluded_paths:
+        - 'test/*'
+checks:
+    php: true
+    javascript: true
+coding_style:
+    php:
+        spaces:
+            around_operators:
+                concatenation: true
