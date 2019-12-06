@@ -28,7 +28,7 @@
         "anax/anax-ramverk1-me": "^1.0.0",
         "anax/controller": "^2.0.0@beta",
         "anax/di": "^2.0.0@alpha",
-        "phpunit/phpunit": "dev-master"
+        "phpunit/phpunit": "8.5.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^7"
