@@ -11,6 +11,6 @@
   ** darksky3 df5348b78d6de9140ebfb0db5c819b31
   */
  return [
-     "ipstack"       => "deba45f2c00989d0855209e849866d20",
-     "darksky"       => "df5348b78d6de9140ebfb0db5c819b31"
+     "ipstack"       => "5743a124d24d6c68f6dc20dccab02eac",
+     "darksky"       => "c938d7a8b2a93d07ac994129372ad516"
  ];
